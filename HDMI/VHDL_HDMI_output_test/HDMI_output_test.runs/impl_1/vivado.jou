@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat May 12 14:26:00 2018
+# Process ID: 9648
+# Current directory: F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1/top.vdi
+# Journal file: F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Tue May  8 16:58:05 2018
+# Process ID: 2924
+# Current directory: F:/Vivado/ZYBO_Project/02_HDMI_output_test
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16832 F:\Vivado\ZYBO_Project\02_HDMI_output_test\HDMI_output_test.xpr
+# Log file: F:/Vivado/ZYBO_Project/02_HDMI_output_test/vivado.log
+# Journal file: F:/Vivado/ZYBO_Project/02_HDMI_output_test\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1/top.bit} [get_hw_devices xc7z010_1]
+current_hw_device [get_hw_devices xc7z010_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z010_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1/top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {F:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.runs/impl_1/top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]
+close_hw

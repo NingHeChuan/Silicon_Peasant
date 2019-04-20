@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Apr 17 17:59:41 2019
+# Process ID: 8876
+# Current directory: H:/Vivado/ZYBO_Project/02_HDMI_output_test
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7316 H:\Vivado\ZYBO_Project\02_HDMI_output_test\HDMI_output_test.xpr
+# Log file: H:/Vivado/ZYBO_Project/02_HDMI_output_test/vivado.log
+# Journal file: H:/Vivado/ZYBO_Project/02_HDMI_output_test\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project H:/Vivado/ZYBO_Project/02_HDMI_output_test/HDMI_output_test.xpr
+update_compile_order -fileset sources_1
